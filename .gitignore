@@ -4,3 +4,6 @@ data/
 __pycache__/
 annotations/
 .DS_Store
+将删除 .idea/
+将删除 vocab.pkl
+.idea/*
