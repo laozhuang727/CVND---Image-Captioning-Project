@@ -7,3 +7,5 @@ annotations/
 将删除 .idea/
 将删除 vocab.pkl
 .idea/*
+/models/
+/training_log.txt
